@@ -29,7 +29,7 @@ function App() {
         <Route path='/visitor' element={< Visitor/>} exact/>
         <Route path='/counsellor' element={< Counsellor/>} exact/>
         <Route path='/contact' element={< Contact/>} exact/>
-        <Route path='/fetch-registartion' element={< FetchRegistration/>} exact/>
+        <Route path='/fetch-registration' element={< FetchRegistration/>} exact/>
         
       
 
